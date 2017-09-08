@@ -6,7 +6,7 @@
  * Time: 01:22
  */
 
-namespace Devscreencast\ResponseClass;
+namespace alearn\ResponseClass;
 
 
 class JsonResponse
