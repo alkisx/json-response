@@ -1,5 +1,5 @@
 {
-    "name": "devscreencast/json-response",
+    "name": "alearn/json-response",
     "description": "A simple class that returns a properly formatted json response with HTTP status",
     "keywords": ["Json","Response","API Response Class", "PHP"],
     "license": "MIT",
@@ -19,7 +19,7 @@
     "autoload": {
 
         "psr-4": {
-            "Devscreencast\\ResponseClass\\": "src/"
+            "alearn\\ResponseClass\\": "src/"
         }
     }
 
