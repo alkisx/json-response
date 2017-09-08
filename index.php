@@ -3,7 +3,7 @@
 require_once __DIR__ . "/vendor/autoload.php";
 
 
-use Devscreencast\ResponseClass\JsonResponse;
+use alearn\ResponseClass\JsonResponse;
 
 
 $student = [
